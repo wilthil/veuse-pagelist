@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Veuse Posttypes Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-09 11:30+0100\n"
+"PO-Revision-Date: 2013-12-09 11:30+0100\n"
+"Last-Translator: Andreas Wilthil <andreas@siteman.no>\n"
+"Language-Team: Veuse <andreas.wilthil@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: 1,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../veuse-pagelist.php:14
+msgid "Veuse Pagelist"
+msgstr "Sideliste"
+
+#: ../veuse-pagelist.php:110
+msgid "Read more"
+msgstr "Les mer"
+
+#: ../veuse-pagelist.php:389
+msgid "Layout"
+msgstr ""
+
+#: ../veuse-pagelist.php:403
+msgid "Columns"
+msgstr "Kolonner"
+
+#: ../veuse-pagelist.php:416
+msgid "Pages"
+msgstr "Sider"
+
+#: ../veuse-pagelist.php:429
+msgid "Elements"
+msgstr "Elementer"
+
+#: ../veuse-pagelist.php:443
+msgid "Image size"
+msgstr "Bildestørrelse"
+
+#: ../veuse-pagelist.php:450
+msgid "Link"
+msgstr "Lenke"
+
+#: ../veuse-pagelist.php:455
+msgid "Insert shortcode"
+msgstr "Sett inn shortcode"
+
+#: ../veuse-pagelist.php:634
+msgid "Featured Pages settings"
+msgstr "Innstillinger for fremhevede sider"
+
+#: ../veuse-pagelist.php:635
+msgid "Settings for the featured-pages plugin."
+msgstr "Innstillinger for Fremhevede sider plugin"
+
+#: ../veuse-pagelist.php:648
+msgid "Enable plugin stylesheet"
+msgstr "Last inn stilark"
+
+#: ../veuse-pagelist.php:657
+msgid "Save Changes"
+msgstr "Lagre endringer"
+
+#: ../veuse-pagelist.php:680
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: ../widget.php:11
+msgid "Pagelist (Veuse)"
+msgstr "Sideliste (Siteman)"
+
+#: ../widget.php:12
+msgid ""
+"Extract content from other pages and put in a grid on your page or post."
+msgstr "Hent innhold fra andre sider, og sett inn på siden"
+
+#: ../widget.php:100
+msgid "3"
+msgstr ""
+
+#: ../widget.php:107
+msgid "featured"
+msgstr "fremhevet"
+
+#: ../widget.php:114
+msgid "Title:"
+msgstr "Tittel:"
+
+#: ../widget.php:146
+msgid "Select pages:"
+msgstr "Velg sider:"
+
+#: ../widget.php:181
+msgid "Grid:"
+msgstr "Kolonner:"
+
+#: ../widget.php:183
+msgid "1 column"
+msgstr "1 kolonne"
+
+#: ../widget.php:184
+msgid "2 columns"
+msgstr "2 kolonner"
+
+#: ../widget.php:185
+msgid "3 columns"
+msgstr "3 kolonner"
+
+#: ../widget.php:186
+msgid "4 columns"
+msgstr "4 kolonner"
+
+#: ../widget.php:191
+msgid "Layout:"
+msgstr ""
+
+#: ../widget.php:193
+msgid "Featured"
+msgstr "Fremhevede sider"
+
+#: ../widget.php:194
+msgid "Highlights"
+msgstr ""
+
+#: ../widget.php:195
+msgid "Tabs"
+msgstr "Horisontale faner"
+
+#: ../widget.php:196
+msgid "Accordion"
+msgstr ""
+
+#: ../widget.php:197
+msgid "Auto"
+msgstr ""
+
+#: ../widget.php:204
+msgid "Image size:"
+msgstr "Bildestørrelse:"
+
+#: ../widget.php:206
+msgid "width * height"
+msgstr "bredde x høyde"
+
+#: ../widget.php:210
+msgid "Link to page:"
+msgstr "Lenke til sidene"
+
+#~ msgid "Phone:"
+#~ msgstr "Telefon"
+
+#~ msgid "Mobile:"
+#~ msgstr "Mobil"
+
+#~ msgid "Email"
+#~ msgstr "E-post"
+
+#~ msgid "Veuse Portfolio"
+#~ msgstr "Veuse Portefølje-plugin"
+
+#~ msgid "Portfolio"
+#~ msgstr "Porteflølje"
+
+#~ msgid "Project"
+#~ msgstr "Prosjekt"
+
+#~ msgid "Add New Project"
+#~ msgstr "Legg til prosjekt"
+
+#~ msgid "Edit Project"
+#~ msgstr "Endre prosjekt"
+
+#~ msgid "All Projects"
+#~ msgstr "Alle prosjekter"
+
+#~ msgid "New Project"
+#~ msgstr "Nytt prosjekt"
+
+#~ msgid "View Project"
+#~ msgstr "Vis prosjekt"

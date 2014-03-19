@@ -1,0 +1,24 @@
+//@import 'sections';
+@import 'responsivetabs';
+@import	'grid';
+
+
+
+.type-highlights { }
+.type-highlights .entry-thumbnail { width: 40%; padding-right:20px; float: left; }
+.type-highlights .entry-thumbnail img { 
+	
+	border-radius:50%;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%; 
+
+}
+
+
+
+.type-highlights .entry-content { width: 60%; float: left;}
+.type-highlights h4 { margin-top:0; }
+
+
+
+
